@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.dcc4d659.chunk.css",
-    "main.js": "/my-app/static/js/main.a3dc8429.chunk.js",
-    "main.js.map": "/my-app/static/js/main.a3dc8429.chunk.js.map",
+    "main.css": "/my-app/static/css/main.7f7c6d98.chunk.css",
+    "main.js": "/my-app/static/js/main.c086c09e.chunk.js",
+    "main.js.map": "/my-app/static/js/main.c086c09e.chunk.js.map",
     "runtime-main.js": "/my-app/static/js/runtime-main.5119dbb0.js",
     "runtime-main.js.map": "/my-app/static/js/runtime-main.5119dbb0.js.map",
     "static/css/2.af3c1da9.chunk.css": "/my-app/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.c780b2a8.chunk.js": "/my-app/static/js/2.c780b2a8.chunk.js",
-    "static/js/2.c780b2a8.chunk.js.map": "/my-app/static/js/2.c780b2a8.chunk.js.map",
+    "static/js/2.90cf596e.chunk.js": "/my-app/static/js/2.90cf596e.chunk.js",
+    "static/js/2.90cf596e.chunk.js.map": "/my-app/static/js/2.90cf596e.chunk.js.map",
     "index.html": "/my-app/index.html",
-    "precache-manifest.3f3a804061aa3e0a83bee7dd39ae776c.js": "/my-app/precache-manifest.3f3a804061aa3e0a83bee7dd39ae776c.js",
+    "precache-manifest.1c60700ce33d75886c73d0a0540db790.js": "/my-app/precache-manifest.1c60700ce33d75886c73d0a0540db790.js",
     "service-worker.js": "/my-app/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/my-app/static/css/2.af3c1da9.chunk.css.map",
-    "static/css/main.dcc4d659.chunk.css.map": "/my-app/static/css/main.dcc4d659.chunk.css.map",
-    "static/js/2.c780b2a8.chunk.js.LICENSE.txt": "/my-app/static/js/2.c780b2a8.chunk.js.LICENSE.txt",
+    "static/css/main.7f7c6d98.chunk.css.map": "/my-app/static/css/main.7f7c6d98.chunk.css.map",
+    "static/js/2.90cf596e.chunk.js.LICENSE.txt": "/my-app/static/js/2.90cf596e.chunk.js.LICENSE.txt",
     "static/media/github.png": "/my-app/static/media/github.2961b500.png",
     "static/media/jamming.png": "/my-app/static/media/jamming.5e9be067.png",
     "static/media/matching game.png": "/my-app/static/media/matching game.cfd71af0.png",
@@ -23,8 +23,8 @@
   "entrypoints": [
     "static/js/runtime-main.5119dbb0.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.c780b2a8.chunk.js",
-    "static/css/main.dcc4d659.chunk.css",
-    "static/js/main.a3dc8429.chunk.js"
+    "static/js/2.90cf596e.chunk.js",
+    "static/css/main.7f7c6d98.chunk.css",
+    "static/js/main.c086c09e.chunk.js"
   ]
 }
